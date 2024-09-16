@@ -10,4 +10,4 @@ My submission for Computer Science class,  Section , Assignment
 
 # Instructions
 
-Hey professor!
+I promise not to forget that all future assignments may be heavily penalized for failure to commit frequently as I do my work.
